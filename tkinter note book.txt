@@ -1,0 +1,26 @@
+Tkinter
+* Tkinter is the most commonly used library for developing 
+  GUI (Graphical User Interface) in Python.
+* Tk and Tkinter are available on most of the Unix platforms as well as on the Windows system, 
+  developing GUI applications with Tkinter becomes the fastest and easiest.
+
+syntax:-
+from tkinter import *   
+root = Tk()  
+#what content  to be displayed
+
+root.mainloop() 
+
+1) Create a title
+2) Creating a button in tkinter(create a button pgrm)
+3) Create a button to distroy the page
+4) create a button to color the font and background
+5) create a canvas
+6) create a canvas arc
+
+
+
+
+
+
+
